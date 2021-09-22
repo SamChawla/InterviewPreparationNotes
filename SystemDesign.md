@@ -15,7 +15,7 @@
 
 A system is a loosely coupled term for an architecture or collection of software or technologies that communicate with each other/interact with each other in order to serve a set of users with a certain set of requirements.
 
-![system](assets\media\system.PNG)
+![system](assets/media/system.PNG)
 Image credit: [Introduction to System Design | System Design Tutorials | Part 1 | 2020](https://youtu.be/FSR1s2b-l_I?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&t=146)
 
 ---
@@ -55,7 +55,7 @@ The components can be divided into two parts:
 
 ## Client-Server Architecture
 
-![client server architecture](assets\media\ClientServerArch.PNG)
+![client server architecture](assets/media/ClientServerArch.PNG)
 Image credit: [Client Server Architecture | System Design Tutorials | Part 3 | 2020](https://youtu.be/Dg1U-jwVUrg?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&t=39)
 
 | Thick Client | Thin Client |
@@ -75,10 +75,10 @@ __N Tier__: Large scale systems (Gmail, FB)
 ## Proxies
 
 Forward Proxy: Client Side Proxy (VPN)
-![Forward Proxy](assets\media\frwd_proxy.jpg)
+![Forward Proxy](assets/media/frwd_proxy.jpg)
 
 Reverse Proxy: Server Side Proxy (Load Balancer)
-![Reverse Proxy](assets\media\reverse_proxy.jpg)
+![Reverse Proxy](assets/media/reverse_proxy.jpg)
 
 ---
 
